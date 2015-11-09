@@ -1,1 +1,1 @@
-(c) 2015 ANPR Solutions Limited
+(c) 2015 PAL-Technology Limited
